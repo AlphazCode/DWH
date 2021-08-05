@@ -1,0 +1,394 @@
+2021-07-19 21:55:21,725 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-07-19 21:55:21,943 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-07-19 21:55:22,100 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-07-19 21:55:22,327 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-07-19 21:55:22,421 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-07-19 21:55:23,132 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-07-19 21:55:23,226 :: automatic_processing :: INFO :: Loading data to the table region
+2021-07-19 21:55:23,660 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-07-19 21:55:23,755 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-07-19 21:55:24,575 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-07-19 21:55:24,669 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-07-19 21:55:25,763 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-07-19 21:55:25,857 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-07-19 21:55:26,470 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-07-19 21:55:26,564 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-07-19 21:55:27,355 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-07-19 21:55:27,449 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-07-19 21:55:27,968 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-07-19 21:55:28,062 :: automatic_processing :: INFO :: Loading data to the table products
+2021-07-19 21:55:28,737 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-07-19 21:55:28,831 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-07-19 21:55:29,974 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-07-19 21:55:30,068 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-07-19 21:55:30,446 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-07-19 21:55:30,539 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-07-19 21:55:31,008 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-07-19 21:55:31,009 :: automatic_processing :: INFO :: Database connection closed.
+2021-07-19 22:19:06,369 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-07-19 22:19:06,690 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-07-19 22:19:06,852 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-07-19 22:19:07,165 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-07-19 22:19:07,267 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-07-19 22:19:08,394 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-07-19 22:19:08,490 :: automatic_processing :: INFO :: Loading data to the table region
+2021-07-19 22:19:08,905 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-07-19 22:19:09,001 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-07-19 22:19:09,854 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-07-19 22:19:09,950 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-07-19 22:19:11,048 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-07-19 22:19:11,145 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-07-19 22:19:11,617 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-07-19 22:19:11,713 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-07-19 22:19:12,641 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-07-19 22:19:12,738 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-07-19 22:19:13,058 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-07-19 22:19:13,154 :: automatic_processing :: INFO :: Loading data to the table products
+2021-07-19 22:19:13,856 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-07-19 22:19:13,953 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-07-19 22:19:15,111 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-07-19 22:19:15,209 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-07-19 22:19:15,399 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-07-19 22:19:15,496 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-07-19 22:19:16,290 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-07-19 22:19:16,290 :: automatic_processing :: INFO :: Database connection closed.
+2021-07-20 22:47:38,757 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-07-20 22:47:39,071 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-07-20 22:47:39,262 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-07-20 22:47:39,674 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-07-20 22:47:39,798 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-07-20 22:47:40,622 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-07-20 22:47:40,751 :: automatic_processing :: INFO :: Loading data to the table region
+2021-07-20 22:47:41,183 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-07-20 22:47:41,325 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-07-20 22:47:42,482 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-07-20 22:47:42,632 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-07-20 22:47:43,860 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-07-20 22:47:43,991 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-07-20 22:47:44,505 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-07-20 22:47:44,600 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-07-20 22:47:45,567 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-07-20 22:47:45,664 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-07-20 22:47:46,125 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-07-20 22:47:46,234 :: automatic_processing :: INFO :: Loading data to the table products
+2021-07-20 22:47:46,842 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-07-20 22:47:46,954 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-07-20 22:47:48,045 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-07-20 22:47:48,154 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-07-20 22:47:48,398 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-07-20 22:47:48,514 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-07-20 22:47:49,074 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-07-20 22:47:49,075 :: automatic_processing :: INFO :: Database connection closed.
+2021-07-21 13:28:48,318 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-07-21 13:28:48,559 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-07-21 13:28:48,738 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-07-21 13:28:49,461 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-07-21 13:28:49,552 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-07-21 13:28:50,282 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-07-21 13:28:50,374 :: automatic_processing :: INFO :: Loading data to the table region
+2021-07-21 13:28:50,775 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-07-21 13:28:50,866 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-07-21 13:28:51,659 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-07-21 13:28:51,750 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-07-21 13:28:53,090 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-07-21 13:28:53,182 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-07-21 13:28:53,747 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-07-21 13:28:53,839 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-07-21 13:28:54,597 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-07-21 13:28:54,689 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-07-21 13:28:55,179 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-07-21 13:28:55,270 :: automatic_processing :: INFO :: Loading data to the table products
+2021-07-21 13:28:56,411 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-07-21 13:28:56,502 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-07-21 13:28:59,900 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-07-21 13:28:59,993 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-07-21 13:29:00,199 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-07-21 13:29:00,289 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-07-21 13:29:01,150 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-07-21 13:29:01,150 :: automatic_processing :: INFO :: Database connection closed.
+2021-07-21 15:14:04,630 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-07-21 15:14:04,843 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-07-21 15:14:04,999 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-07-21 15:14:06,073 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-07-21 15:14:06,165 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-07-21 15:14:07,014 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-07-21 15:14:07,106 :: automatic_processing :: INFO :: Loading data to the table region
+2021-07-21 15:14:07,470 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-07-21 15:14:07,562 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-07-21 15:14:08,649 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-07-21 15:14:08,741 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-07-21 15:14:13,025 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-07-21 15:14:13,118 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-07-21 15:14:13,811 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-07-21 15:14:13,904 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-07-21 15:14:14,536 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-07-21 15:14:14,629 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-07-21 15:14:14,940 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-07-21 15:14:15,032 :: automatic_processing :: INFO :: Loading data to the table products
+2021-07-21 15:14:15,734 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-07-21 15:14:15,827 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-07-21 15:14:17,229 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-07-21 15:14:17,323 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-07-21 15:14:17,526 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-07-21 15:14:17,618 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-07-21 15:14:18,575 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-07-21 15:14:18,575 :: automatic_processing :: INFO :: Database connection closed.
+2021-08-02 18:10:07,814 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-08-02 18:10:08,177 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-08-02 18:10:08,458 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-08-02 18:10:09,188 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-08-02 18:10:09,286 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-08-02 18:10:10,534 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-08-02 18:10:10,644 :: automatic_processing :: INFO :: Loading data to the table region
+2021-08-02 18:10:11,129 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-08-02 18:10:11,228 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-08-02 18:10:12,121 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-08-02 18:10:12,222 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-08-02 18:10:13,222 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-08-02 18:10:13,325 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-08-02 18:10:13,938 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-08-02 18:10:14,037 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-08-02 18:10:14,804 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-08-02 18:10:14,903 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-08-02 18:10:15,411 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-08-02 18:10:15,509 :: automatic_processing :: INFO :: Loading data to the table products
+2021-08-02 18:10:16,179 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-08-02 18:10:16,278 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-08-02 18:10:17,228 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-08-02 18:10:17,328 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-08-02 18:10:17,780 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-08-02 18:10:17,878 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-08-02 18:10:18,489 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-08-02 18:10:18,489 :: automatic_processing :: INFO :: Database connection closed.
+2021-08-02 21:11:42,917 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-08-02 21:11:43,136 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-08-02 21:11:43,295 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-08-02 21:11:44,564 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-08-02 21:11:44,659 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-08-02 21:11:45,462 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-08-02 21:11:45,559 :: automatic_processing :: INFO :: Loading data to the table region
+2021-08-02 21:11:45,927 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-08-02 21:11:46,022 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-08-02 21:11:46,947 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-08-02 21:11:47,041 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-08-02 21:11:48,020 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-08-02 21:11:48,115 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-08-02 21:11:48,678 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-08-02 21:11:48,772 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-08-02 21:11:49,717 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-08-02 21:11:49,812 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-08-02 21:11:50,116 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-08-02 21:11:50,211 :: automatic_processing :: INFO :: Loading data to the table products
+2021-08-02 21:11:50,847 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-08-02 21:11:50,943 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-08-02 21:11:51,887 :: automatic_processing :: ERROR :: The file is not CSV. Please, check the file.
+Traceback (most recent call last):
+  File "D:\_Projects\DWH\python\utils.py", line 88, in read_csv
+    cursor.execute("INSERT INTO " + full_table_name + " VALUES " + args_str)
+psycopg2.errors.ForeignKeyViolation: insert or update on table "orders" violates foreign key constraint "orders_customerid_fkey"
+DETAIL:  Key (customerid)=(RAZZZ) is not present in table "customers".
+
+2021-08-02 21:11:51,960 :: automatic_processing :: ERROR :: current transaction is aborted, commands ignored until end of transaction block
+Traceback (most recent call last):
+  File "populate_tables.py", line 26, in <module>
+    "SELECT EXISTS(SELECT * FROM information_schema.tables WHERE table_name = '" + table_name + "')")
+psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block
+
+2021-08-02 21:11:51,961 :: automatic_processing :: INFO :: Database connection closed.
+2021-08-02 21:27:47,989 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-08-02 21:27:48,204 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-08-02 21:27:48,360 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-08-02 21:27:49,059 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-08-02 21:27:49,152 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-08-02 21:27:49,893 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-08-02 21:27:50,001 :: automatic_processing :: INFO :: Loading data to the table region
+2021-08-02 21:27:50,429 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-08-02 21:27:50,522 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-08-02 21:27:51,406 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-08-02 21:27:51,499 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-08-02 21:27:52,561 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-08-02 21:27:52,654 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-08-02 21:27:53,186 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-08-02 21:27:53,279 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-08-02 21:27:54,131 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-08-02 21:27:54,223 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-08-02 21:27:54,526 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-08-02 21:27:54,619 :: automatic_processing :: INFO :: Loading data to the table products
+2021-08-02 21:27:55,247 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-08-02 21:27:55,339 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-08-02 21:27:56,319 :: automatic_processing :: ERROR :: The file is not CSV. Please, check the file.
+Traceback (most recent call last):
+  File "D:\_Projects\DWH\python\utils.py", line 88, in read_csv
+    cursor.execute("INSERT INTO " + full_table_name + " VALUES " + args_str)
+psycopg2.errors.ForeignKeyViolation: insert or update on table "orders" violates foreign key constraint "orders_customerid_fkey"
+DETAIL:  Key (customerid)=(RAZZZ) is not present in table "customers".
+
+2021-08-02 21:27:56,367 :: automatic_processing :: ERROR :: current transaction is aborted, commands ignored until end of transaction block
+Traceback (most recent call last):
+  File "populate_tables.py", line 26, in <module>
+    "SELECT EXISTS(SELECT * FROM information_schema.tables WHERE table_name = '" + table_name + "')")
+psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block
+
+2021-08-02 21:27:56,367 :: automatic_processing :: INFO :: Database connection closed.
+2021-08-02 22:39:30,262 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-08-02 22:39:30,488 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-08-02 22:39:30,652 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-08-02 22:39:31,529 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-08-02 22:39:31,627 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-08-02 22:39:32,443 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-08-02 22:39:32,542 :: automatic_processing :: INFO :: Loading data to the table region
+2021-08-02 22:39:32,945 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-08-02 22:39:33,043 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-08-02 22:39:34,083 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-08-02 22:39:34,183 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-08-02 22:39:35,226 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-08-02 22:39:35,324 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-08-02 22:39:35,760 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-08-02 22:39:35,859 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-08-02 22:39:36,638 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-08-02 22:39:36,914 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-08-02 22:39:37,236 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-08-02 22:39:37,335 :: automatic_processing :: INFO :: Loading data to the table products
+2021-08-02 22:39:37,947 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-08-02 22:39:38,046 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-08-02 22:39:38,994 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-08-02 22:39:39,093 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-08-02 22:39:39,289 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-08-02 22:39:39,387 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-08-02 22:39:40,160 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-08-02 22:39:40,160 :: automatic_processing :: INFO :: Database connection closed.
+2021-08-03 15:42:51,126 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-08-03 15:42:51,281 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-08-03 15:42:51,383 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-08-03 15:42:52,073 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-08-03 15:42:52,130 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-08-03 15:42:53,036 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-08-03 15:42:53,092 :: automatic_processing :: INFO :: Loading data to the table region
+2021-08-03 15:42:53,475 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-08-03 15:42:53,533 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-08-03 15:42:54,494 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-08-03 15:42:54,551 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-08-03 15:42:55,666 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-08-03 15:42:55,722 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-08-03 15:42:56,138 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-08-03 15:42:56,196 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-08-03 15:42:57,038 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-08-03 15:42:57,100 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-08-03 15:42:57,546 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-08-03 15:42:57,603 :: automatic_processing :: INFO :: Loading data to the table products
+2021-08-03 15:42:58,230 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-08-03 15:42:58,288 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-08-03 15:42:59,319 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-08-03 15:42:59,379 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-08-03 15:42:59,555 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-08-03 15:42:59,616 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-08-03 15:43:00,344 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-08-03 15:43:00,344 :: automatic_processing :: INFO :: Database connection closed.
+2021-08-03 16:20:01,862 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-08-03 16:20:02,006 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-08-03 16:20:02,107 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-08-03 16:20:02,806 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-08-03 16:20:02,864 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-08-03 16:20:03,645 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-08-03 16:20:03,702 :: automatic_processing :: INFO :: Loading data to the table region
+2021-08-03 16:20:04,121 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-08-03 16:20:04,178 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-08-03 16:20:05,982 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-08-03 16:20:06,039 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-08-03 16:20:08,250 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-08-03 16:20:08,308 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-08-03 16:20:08,741 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-08-03 16:20:08,798 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-08-03 16:20:09,781 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-08-03 16:20:09,837 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-08-03 16:20:10,067 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-08-03 16:20:10,123 :: automatic_processing :: INFO :: Loading data to the table products
+2021-08-03 16:20:10,668 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-08-03 16:20:10,724 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-08-03 16:20:11,783 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-08-03 16:20:11,841 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-08-03 16:20:12,036 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-08-03 16:20:12,093 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-08-03 16:20:13,053 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-08-03 16:20:13,053 :: automatic_processing :: INFO :: Database connection closed.
+2021-08-03 17:58:56,386 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-08-03 17:58:56,530 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-08-03 17:58:56,633 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-08-03 17:58:57,265 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-08-03 17:58:57,323 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-08-03 17:58:58,167 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-08-03 17:58:58,224 :: automatic_processing :: INFO :: Loading data to the table region
+2021-08-03 17:58:58,627 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-08-03 17:58:58,684 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-08-03 17:58:59,564 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-08-03 17:58:59,622 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-08-03 17:59:00,685 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-08-03 17:59:00,743 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-08-03 17:59:01,118 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-08-03 17:59:01,176 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-08-03 17:59:02,270 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-08-03 17:59:02,328 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-08-03 17:59:02,587 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-08-03 17:59:02,644 :: automatic_processing :: INFO :: Loading data to the table products
+2021-08-03 17:59:03,461 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-08-03 17:59:03,518 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-08-03 17:59:04,480 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-08-03 17:59:04,538 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-08-03 17:59:04,680 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-08-03 17:59:04,738 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-08-03 17:59:05,172 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-08-03 17:59:05,172 :: automatic_processing :: INFO :: Database connection closed.
+2021-08-04 14:16:51,651 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-08-04 14:16:51,810 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-08-04 14:16:51,915 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-08-04 14:16:52,559 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-08-04 14:16:52,617 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-08-04 14:16:53,511 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-08-04 14:16:53,568 :: automatic_processing :: INFO :: Loading data to the table region
+2021-08-04 14:16:53,908 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-08-04 14:16:53,968 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-08-04 14:16:54,979 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-08-04 14:16:55,036 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-08-04 14:16:56,119 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-08-04 14:16:56,176 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-08-04 14:16:56,583 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-08-04 14:16:56,642 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-08-04 14:16:57,571 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-08-04 14:16:57,628 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-08-04 14:16:57,998 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-08-04 14:16:58,055 :: automatic_processing :: INFO :: Loading data to the table products
+2021-08-04 14:16:58,909 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-08-04 14:16:58,967 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-08-04 14:17:02,543 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-08-04 14:17:02,602 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-08-04 14:17:03,172 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-08-04 14:17:03,229 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-08-04 14:17:03,924 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-08-04 14:17:03,925 :: automatic_processing :: INFO :: Database connection closed.
+2021-08-04 14:18:22,723 :: automatic_processing :: INFO :: Trying to connect to PostgreSQL
+2021-08-04 14:18:22,866 :: automatic_processing :: INFO :: Connected to PostgreSQL
+2021-08-04 14:18:22,970 :: automatic_processing :: INFO :: Loading data to the table suppliers
+2021-08-04 14:18:23,684 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.suppliers
+2021-08-04 14:18:23,740 :: automatic_processing :: INFO :: Loading data to the table shippers
+2021-08-04 14:18:24,602 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.shippers
+2021-08-04 14:18:24,658 :: automatic_processing :: INFO :: Loading data to the table region
+2021-08-04 14:18:24,981 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.region
+2021-08-04 14:18:25,037 :: automatic_processing :: INFO :: Loading data to the table employees
+2021-08-04 14:18:25,980 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employees
+2021-08-04 14:18:26,037 :: automatic_processing :: INFO :: Loading data to the table customers
+2021-08-04 14:18:27,061 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.customers
+2021-08-04 14:18:27,117 :: automatic_processing :: INFO :: Loading data to the table contacts
+2021-08-04 14:18:27,520 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.contacts
+2021-08-04 14:18:27,577 :: automatic_processing :: INFO :: Loading data to the table categories
+2021-08-04 14:18:28,610 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.categories
+2021-08-04 14:18:28,666 :: automatic_processing :: INFO :: Loading data to the table territories
+2021-08-04 14:18:28,921 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.territories
+2021-08-04 14:18:28,978 :: automatic_processing :: INFO :: Loading data to the table products
+2021-08-04 14:18:29,764 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.products
+2021-08-04 14:18:29,820 :: automatic_processing :: INFO :: Loading data to the table orders
+2021-08-04 14:18:31,031 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.orders
+2021-08-04 14:18:31,088 :: automatic_processing :: INFO :: Loading data to the table employeeterritories
+2021-08-04 14:18:31,229 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.employeeterritories
+2021-08-04 14:18:31,286 :: automatic_processing :: INFO :: Loading data to the table order_details
+2021-08-04 14:18:31,684 :: automatic_processing :: INFO :: Data has been successfully loaded into the table dbo.order_details
+2021-08-04 14:18:31,685 :: automatic_processing :: INFO :: Database connection closed.
