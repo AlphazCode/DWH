@@ -127,9 +127,38 @@ CREATE TABLE FactOrder(
     CONSTRAINT FK_SHD_ID FOREIGN KEY(ShippedDate) REFERENCES DimDate(CurrentDate)
     );
 
+CREATE TABLE FactError(
+    OrderID int NOT NULL,
+    SKCustomer int NULL,
+    SKSupplier int NULL,
+    SKShipper int NULL,
+    SKProduct int NULL,
+	EmployeeID int NULL,
+    OrderDate date  NULL,
+    RequiredDate date NULL,
+    ShippedDate date NULL,
+    Freight decimal(8,2) NULL ,
+    ShipName varchar(40) NULL,
+    ShipAddress varchar(60) NULL,
+    ShipCity varchar(15) NULL,
+    ShipRegion varchar(15) NULL,
+    ShipCountry varchar(15) NULL,
+    ActualPrice decimal(8,2) NULL,
+    Quantity smallint NULL,
+    Discount real NULL,
+    
+    CONSTRAINT FK_ERR_CST_ID FOREIGN KEY(SKCustomer) REFERENCES DimCustomer(SKCustomer),
+    CONSTRAINT FK_ERR_SUP_ID FOREIGN KEY(SKSupplier) REFERENCES DimSupplier(SKSupplier),
+    CONSTRAINT FK_ERR_SHP_ID FOREIGN KEY(SKShipper) REFERENCES DimShipper(SKShipper),
+    CONSTRAINT FK_ERR_PRD_ID FOREIGN KEY(SKProduct) REFERENCES DimProduct(SKProduct),
+    CONSTRAINT FK_ERR_EMP_ID FOREIGN KEY(EmployeeID) REFERENCES DimEmployee(EmployeeID),
+    CONSTRAINT FK_ERR_ORT_ID FOREIGN KEY(OrderDate) REFERENCES DimDate(CurrentDate),
+    CONSTRAINT FK_ERR_REQ_ID FOREIGN KEY(RequiredDate) REFERENCES DimDate(CurrentDate),
+    CONSTRAINT FK_ERR_SHD_ID FOREIGN KEY(ShippedDate) REFERENCES DimDate(CurrentDate)
+    );   
 
 SET @first_date = '1970-01-01';
-SET @last_date = '2050-12-31';
+SET @last_date = '2040-12-31';
 SET SESSION cte_max_recursion_depth = ABS(DATEDIFF(CONVERT(@last_date, DATE), CONVERT(@first_date, DATE))) + 1000;
 INSERT INTO DimDate
 
