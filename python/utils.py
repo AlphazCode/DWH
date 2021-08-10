@@ -39,12 +39,16 @@ def parse_config():
 def db_connect(conn, max_db_connect_amount):
     db_params = config('Config.ini', 'PostgreSQL')
     db_connect_amount = 0
+
+    def connect_attempt(connect_timeout):
+        conn = psycopg2.connect(**db_params, connect_timeout=connect_timeout)
+        print("Connected to database")
+        return conn
+
     while db_connect_amount <= max_db_connect_amount:
         try:
-            conn = psycopg2.connect(**db_params, connect_timeout=10)
-            print("Connected to database")
             db_connect_amount += 1
-            return conn
+            return connect_attempt(10 * db_connect_amount)
         except (Exception, psycopg2.OperationalError, pyodbc.OperationalError) as error:
             print(str(error))
             if db_connect_amount <= 1 and (
@@ -56,7 +60,7 @@ def db_connect(conn, max_db_connect_amount):
                 logger.info(f'Trying to connect to the database {db_connect_amount} times')
                 sys.stdout.write("\rTrying to connect to the database %d times" % db_connect_amount)
                 sys.stdout.flush()
-                time.sleep(15 * db_connect_amount)
+                time.sleep(5)
                 if db_connect_amount == max_db_connect_amount:
                     logger.exception(error)
                     logger.info('_________________________________________________')
@@ -164,4 +168,3 @@ def read_csv(conn, full_path, full_table_name):
     except Exception:
         logger.exception("The file is not CSV. Please, check the file.")
         print("The file is not CSV. Please, check the file.")
-

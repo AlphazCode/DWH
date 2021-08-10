@@ -23,13 +23,9 @@ CREATE TABLE dbo.Contacts(
 );
 
 CREATE INDEX Contacts_CompanyName_IDX ON dbo.Contacts(CompanyName);
-
 CREATE INDEX Contacts_ContactName_IDX ON dbo.Contacts(ContactName);
-
 CREATE INDEX Contacts_PostalCode_IDX ON dbo.Contacts(PostalCode);
-
 CREATE INDEX Contacts_Address_IDX ON dbo.Contacts(Address);
-
 CREATE INDEX Contacts_Phone_IDX ON dbo.Contacts(Phone);
 
 DROP TABLE IF EXISTS dbo.Employees;
@@ -84,11 +80,8 @@ CREATE TABLE dbo.Customers (
 );
 
 CREATE  INDEX Customers_City_IDX ON dbo.Customers(City);
-
 CREATE  INDEX Customers_CompanyName_IDX ON dbo.Customers(CompanyName);
-
 CREATE  INDEX Customers_PostalCode_IDX ON dbo.Customers(PostalCode);
-
 CREATE  INDEX Customers_Region_IDX ON dbo.Customers(Region);
 
 DROP TABLE IF EXISTS dbo.Shippers;
@@ -117,7 +110,6 @@ CREATE TABLE dbo.Suppliers (
 );
 
 CREATE  INDEX Suppliers_CompanyName_IDX ON dbo.Suppliers(CompanyName);
-
 CREATE  INDEX Suppliers_PostalCode_IDX ON dbo.Suppliers(PostalCode);
 
 DROP TABLE IF EXISTS dbo.Orders;
@@ -141,22 +133,14 @@ CREATE TABLE dbo.Orders (
 	FOREIGN KEY (EmployeeID) REFERENCES dbo.Employees (EmployeeID),
 	FOREIGN KEY (ShipVia) REFERENCES dbo.Shippers (ShipperID)
 );
-
 CREATE  INDEX Orders_CustomerID_IDX ON dbo.Orders(CustomerID);
-
- CREATE  INDEX Orders_CustomersOrders_IDX ON dbo.Orders(CustomerID);
-
- CREATE  INDEX Orders_EmployeeID_IDX ON dbo.Orders(EmployeeID);
-
- CREATE  INDEX Orders_EmployeesOrders_IDX ON dbo.Orders(EmployeeID);
-
- CREATE  INDEX Orders_OrderDate_IDX ON dbo.Orders(OrderDate);
-
- CREATE  INDEX Orders_ShippedDate_IDX ON dbo.Orders(ShippedDate);
-
- CREATE  INDEX Orders_ShippersOrders_IDX ON dbo.Orders(ShipVia);
-
- CREATE  INDEX Orders_ShipPostalCode_IDX ON dbo.Orders(ShipPostalCode);
+CREATE  INDEX Orders_CustomersOrders_IDX ON dbo.Orders(CustomerID);
+CREATE  INDEX Orders_EmployeeID_IDX ON dbo.Orders(EmployeeID);
+CREATE  INDEX Orders_EmployeesOrders_IDX ON dbo.Orders(EmployeeID);
+CREATE  INDEX Orders_OrderDate_IDX ON dbo.Orders(OrderDate);
+CREATE  INDEX Orders_ShippedDate_IDX ON dbo.Orders(ShippedDate);
+CREATE  INDEX Orders_ShippersOrders_IDX ON dbo.Orders(ShipVia);
+CREATE  INDEX Orders_ShipPostalCode_IDX ON dbo.Orders(ShipPostalCode);
 
 DROP TABLE IF EXISTS dbo.Products;
 
@@ -176,14 +160,10 @@ CREATE TABLE dbo.Products (
 );
 
 CREATE  INDEX Products_CategoriesProducts_IDX ON dbo.Products(CategoryID);
-
- CREATE  INDEX Products_CategoryID_IDX ON dbo.Products(CategoryID);
-
- CREATE  INDEX Products_ProductName_IDX ON dbo.Products(ProductName);
-
- CREATE  INDEX Products_SupplierID_IDX ON dbo.Products(SupplierID);
-
- CREATE  INDEX Products_SuppliersProducts_IDX ON dbo.Products(SupplierID);
+CREATE  INDEX Products_CategoryID_IDX ON dbo.Products(CategoryID);
+CREATE  INDEX Products_ProductName_IDX ON dbo.Products(ProductName);
+CREATE  INDEX Products_SupplierID_IDX ON dbo.Products(SupplierID);
+CREATE  INDEX Products_SuppliersProducts_IDX ON dbo.Products(SupplierID);
 
 DROP TABLE IF EXISTS dbo.Order_Details;
 
@@ -199,9 +179,7 @@ CREATE TABLE dbo.Order_Details (
 );
 
 CREATE  INDEX Order_Details_OrderID_IDX ON dbo.Order_Details(OrderID);
-
 CREATE  INDEX Order_Details_ProductID_IDX ON dbo.Order_Details(ProductID);
-
 CREATE  INDEX Order_Details_ProductsOrder_Details_IDX ON dbo.Order_Details(ProductID);
 
 DROP TABLE IF EXISTS dbo.Region;
@@ -229,14 +207,7 @@ CREATE TABLE dbo.CustomerDemographics (
 	CustomerDesc text NULL
 );
 
-DROP TABLE IF EXISTS dbo.CustomerCustomerDemo;
 
-CREATE TABLE dbo.CustomerCustomerDemo (
-	CustomerID text NOT NULL,
-	CustomerTypeID text NOT NULL,
-	FOREIGN KEY (CustomerID) REFERENCES dbo.Customers (CustomerID),
-	FOREIGN KEY (CustomerTypeID) REFERENCES dbo.CustomerDemographics (CustomerTypeID)
-);
 
 DROP TABLE IF EXISTS dbo.EmployeeTerritories;
 
